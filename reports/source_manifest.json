@@ -1,0 +1,94 @@
+{
+  "report_date": "2026-10-11",
+  "generated_at_utc": "2026-10-12T00:31:26.721022+00:00",
+  "sample_status": "post_review_provisional",
+  "manual_review_decisions_applied": true,
+  "accounting_scope_verified": false,
+  "point_in_time_verified": false,
+  "prediction_validated": false,
+  "causal_identification": false,
+  "references": [
+    [
+      "SEC: EDGAR Application Programming Interfaces",
+      "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    ],
+    [
+      "Gaur, Fisher, and Raman (2005). An Econometric Analysis of Inventory Turnover Performance in Retail Services. Management Science, 51(2), 181-194.",
+      "https://pubsonline.informs.org/doi/10.1287/mnsc.1040.0298"
+    ]
+  ],
+  "sources": [
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module12_annual_audit.csv",
+      "sha256": "37d9a6f0df79c84ddcf15fbd0d38c9d2a96a079511561aee3ffe8b04c11016e6"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_gm_next_year_pairs.csv",
+      "sha256": "794738780d620317bb238e256ace1bdd7794b2051e8c9a4d2a9a9e22260fdd30"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_ocf_next_year_pairs.csv",
+      "sha256": "660497265ef74f0f3bb1dc0fd29a29ed028d99758123ea81c5a28036dab243e8"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module12_report_readiness.csv",
+      "sha256": "8ce24af626e369566c4f816a3620e9c371f69f5b06712c5b00979939e23bb757"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_inventory_group_summary.csv",
+      "sha256": "ed3493ca8990f04bb76fc2c48a66ba741fa6cbcee31c058797bb0b0e78ad15b5"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_company_balanced_summary.csv",
+      "sha256": "555355fab97084fa43e679fd121720ec07cee162c602de118a4d817b8334fda6"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_baseline_regression_results.csv",
+      "sha256": "7286bfd3761bce01007ded6e7fa9e004f71282fc5f7ee9d8add890ffbb5a4d1b"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_adjusted_regression_sensitivity.csv",
+      "sha256": "49c5a59c6a64861f8f851254b7fed1e06da573936afe610c018849397681e69d"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module12_case_results.csv",
+      "sha256": "104ab73357fa4a1936cc3df0f008e8af3078aa549f36ccfba395bbd7b513ed78"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/candidate_scope_review.csv",
+      "sha256": "6c2b0b9425249e95e05de62a9312fad0004e50800c6c6e723fe9cede05677fb8"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module12_applied_values.csv",
+      "sha256": "93dc7ec418cc5f6d50aa1a8feffc5c557500fc613738a4d26c59fac611b85f07"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module12_metadata.json",
+      "sha256": "da0cc9f54e972111c53afb53f6593a104ab85b013065463e5847fce4d90230f8"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module10_metadata.json",
+      "sha256": "63dcda6597d74ac2d05149bb3c40130186f18ab93422f8e736bc1aa11ef55c06"
+    },
+    {
+      "path": "work/data/processed/module12_reviewed/expanded_module11_metadata.json",
+      "sha256": "665a1d69f9b44c149e4f959dc8574624b4414a53fc7138bf3fe86e29ad02407b"
+    },
+    {
+      "path": "work/data/processed/module12_manual_review/company_review.csv",
+      "sha256": "6c2b0b9425249e95e05de62a9312fad0004e50800c6c6e723fe9cede05677fb8"
+    },
+    {
+      "path": "work/data/processed/module12_manual_review/annual_scope_review.csv",
+      "sha256": "c9a0c666bddba60d35f6f0fd3434a784885f172d975389b2679b179ef9d05344"
+    },
+    {
+      "path": "work/data/processed/module12_manual_review/case_review.csv",
+      "sha256": "e64e6d2bbafe0f19a2affe1fe9a6f63f25a3330182c73da72f2644fab70e9b9a"
+    },
+    {
+      "path": "work/data/processed/module12_manual_review/metric_review.csv",
+      "sha256": "98eb286b3d51f82496b5affa417d38d4028af333b52ca719cc7b08f40c685b1b"
+    }
+  ]
+}

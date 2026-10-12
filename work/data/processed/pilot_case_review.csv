@@ -1,0 +1,4 @@
+ticker,period_end,next_period_end,inventory_gap_pp,next_gross_margin_change_pp,next_ocf_margin_change_pp,current_filing_url,next_filing_url,case_review_status,review_notes
+ANF,2014-02-01,2015-01-31,32.9103389864061,-0.7640985265775,4.08333762307227,https://www.sec.gov/Archives/edgar/data/1018840/000101884014000033/,https://www.sec.gov/Archives/edgar/data/1018840/000101884015000020/,pending,
+AEO,2017-01-28,2018-02-03,14.955560447292978,-1.75821473284764,0.26411190687267,https://www.sec.gov/Archives/edgar/data/919012/000156459017003969/,https://www.sec.gov/Archives/edgar/data/919012/000156459018006045/,pending,
+URBN,2022-01-31,2023-01-31,14.362091140579619,-3.0798379030114598,-4.92279841943051,https://www.sec.gov/Archives/edgar/data/912615/000156459022013232/,https://www.sec.gov/Archives/edgar/data/912615/000095017023011597/,pending,

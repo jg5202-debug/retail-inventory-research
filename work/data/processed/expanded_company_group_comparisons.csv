@@ -1,0 +1,79 @@
+ticker,subgroup,mean_difference_pp,positive_gap_pairs,nonpositive_gap_pairs,comparison_usable,outcome
+AEO,"Apparel, Footwear, and Off-Price Retail",3.2293489564423723,8,4,True,Gross margin
+AKA,"Apparel, Footwear, and Off-Price Retail",-1.05422779299989,2,2,False,Gross margin
+ANF,"Apparel, Footwear, and Off-Price Retail",-2.1181613942529696,9,6,True,Gross margin
+ARHS,"Home Furnishings, Furniture, and Home Improvement",2.03805936518209,2,2,False,Gross margin
+ASO,"Sporting Goods, Electronics, and Other Merchandise",-0.9788379351704667,2,3,False,Gross margin
+BBWI,Beauty and Personal Care,-0.12412602309468246,6,7,True,Gross margin
+BBY,"Sporting Goods, Electronics, and Other Merchandise",0.3663990331429461,5,3,True,Gross margin
+BKE,"Apparel, Footwear, and Off-Price Retail",-1.880877267287199,8,7,True,Gross margin
+BOOT,"Apparel, Footwear, and Off-Price Retail",-1.7765663023877016,7,4,True,Gross margin
+CURV,"Apparel, Footwear, and Off-Price Retail",-4.887442841193266,3,1,False,Gross margin
+DDS,Department Stores,2.2407380117520286,8,6,True,Gross margin
+DKS,"Sporting Goods, Electronics, and Other Merchandise",-0.11763775321090286,7,7,True,Gross margin
+DLTH,"Apparel, Footwear, and Off-Price Retail",0.08794140820603752,6,4,True,Gross margin
+DXLG,"Apparel, Footwear, and Off-Price Retail",3.4408239992385115,8,6,True,Gross margin
+FIVE,"Sporting Goods, Electronics, and Other Merchandise",-1.6784919975784396,7,3,True,Gross margin
+FND,"Home Furnishings, Furniture, and Home Improvement",-0.10434111101372856,5,3,True,Gross margin
+GAP,"Apparel, Footwear, and Off-Price Retail",-2.327104370846644,8,4,True,Gross margin
+GME,"Sporting Goods, Electronics, and Other Merchandise",1.3194590623229183,10,6,True,Gross margin
+HD,"Home Furnishings, Furniture, and Home Improvement",-0.018784949152313338,6,6,True,Gross margin
+HVT,"Home Furnishings, Furniture, and Home Improvement",0.24813723983059277,7,7,True,Gross margin
+JILL,"Apparel, Footwear, and Off-Price Retail",2.997119654629083,3,3,True,Gross margin
+KSS,Department Stores,-0.515468249251585,4,4,True,Gross margin
+LE,"Apparel, Footwear, and Off-Price Retail",-0.4811455253492783,5,5,True,Gross margin
+LOW,"Home Furnishings, Furniture, and Home Improvement",0.05311416592320499,12,4,True,Gross margin
+LULU,"Apparel, Footwear, and Off-Price Retail",1.0675299417720683,5,5,True,Gross margin
+LVLU,"Apparel, Footwear, and Off-Price Retail",3.4029288797653803,3,1,False,Gross margin
+RH,"Home Furnishings, Furniture, and Home Improvement",-3.798489472305375,9,4,True,Gross margin
+SBH,Beauty and Personal Care,-0.4312111131197801,9,6,True,Gross margin
+SFIX,"Apparel, Footwear, and Off-Price Retail",-0.8296560026174025,4,4,True,Gross margin
+SHOE,"Apparel, Footwear, and Off-Price Retail",-1.50767258348894,6,8,True,Gross margin
+SPWH,"Sporting Goods, Electronics, and Other Merchandise",-0.30961035916980206,7,4,True,Gross margin
+TLYS,"Apparel, Footwear, and Off-Price Retail",2.8018361955351088,8,5,True,Gross margin
+ULTA,Beauty and Personal Care,1.6441317992101745,7,7,True,Gross margin
+URBN,"Apparel, Footwear, and Off-Price Retail",-0.129977606833253,8,7,True,Gross margin
+WSM,"Home Furnishings, Furniture, and Home Improvement",-2.0930562452541386,9,6,True,Gross margin
+ZUMZ,"Apparel, Footwear, and Off-Price Retail",1.6341000775482653,8,6,True,Gross margin
+AEO,"Apparel, Footwear, and Off-Price Retail",3.3305724429261176,8,4,True,OCF-to-revenue
+AKA,"Apparel, Footwear, and Off-Price Retail",2.6182346913075802,2,2,False,OCF-to-revenue
+ANF,"Apparel, Footwear, and Off-Price Retail",-3.061593718825537,9,6,True,OCF-to-revenue
+ARHS,"Home Furnishings, Furniture, and Home Improvement",-9.72927942081086,2,2,False,OCF-to-revenue
+ASO,"Sporting Goods, Electronics, and Other Merchandise",2.1574009814083968,2,3,False,OCF-to-revenue
+BBWI,Beauty and Personal Care,3.13592214592117,6,7,True,OCF-to-revenue
+BBY,"Sporting Goods, Electronics, and Other Merchandise",-0.9532115279321866,5,3,True,OCF-to-revenue
+BKE,"Apparel, Footwear, and Off-Price Retail",0.7653063839470963,8,7,True,OCF-to-revenue
+BOOT,"Apparel, Footwear, and Off-Price Retail",7.769254621802528,7,4,True,OCF-to-revenue
+BURL,"Apparel, Footwear, and Off-Price Retail",3.698660769973626,5,7,True,OCF-to-revenue
+CATO,"Apparel, Footwear, and Off-Price Retail",3.644017827482548,7,7,True,OCF-to-revenue
+CTRN,"Apparel, Footwear, and Off-Price Retail",0.9384649228776523,5,9,True,OCF-to-revenue
+CURV,"Apparel, Footwear, and Off-Price Retail",-7.991736576726863,3,1,False,OCF-to-revenue
+DDS,Department Stores,2.854706836000642,8,7,True,OCF-to-revenue
+DKS,"Sporting Goods, Electronics, and Other Merchandise",3.97177430204751,7,7,True,OCF-to-revenue
+DLTH,"Apparel, Footwear, and Off-Price Retail",9.047323272044245,6,4,True,OCF-to-revenue
+DXLG,"Apparel, Footwear, and Off-Price Retail",4.097232941695258,8,6,True,OCF-to-revenue
+FIVE,"Sporting Goods, Electronics, and Other Merchandise",3.78249784702927,9,4,True,OCF-to-revenue
+FND,"Home Furnishings, Furniture, and Home Improvement",7.246301975974948,5,3,True,OCF-to-revenue
+GAP,"Apparel, Footwear, and Off-Price Retail",-0.5397156494193014,8,4,True,OCF-to-revenue
+GME,"Sporting Goods, Electronics, and Other Merchandise",2.301087304119565,10,6,True,OCF-to-revenue
+HD,"Home Furnishings, Furniture, and Home Improvement",0.7486101647552266,6,6,True,OCF-to-revenue
+HVT,"Home Furnishings, Furniture, and Home Improvement",5.213057210785761,7,7,True,OCF-to-revenue
+JILL,"Apparel, Footwear, and Off-Price Retail",10.930995459016735,3,3,True,OCF-to-revenue
+KSS,Department Stores,3.802612761325139,7,9,True,OCF-to-revenue
+LE,"Apparel, Footwear, and Off-Price Retail",6.456771992293383,5,6,True,OCF-to-revenue
+LOW,"Home Furnishings, Furniture, and Home Improvement",1.2165468222120943,12,4,True,OCF-to-revenue
+LULU,"Apparel, Footwear, and Off-Price Retail",3.050721324833032,5,5,True,OCF-to-revenue
+LVLU,"Apparel, Footwear, and Off-Price Retail",5.443199414294587,3,1,False,OCF-to-revenue
+M,Department Stores,3.729812100445214,5,2,False,OCF-to-revenue
+RH,"Home Furnishings, Furniture, and Home Improvement",3.806125991922492,9,4,True,OCF-to-revenue
+ROST,"Apparel, Footwear, and Off-Price Retail",-2.6317070243452645,5,10,True,OCF-to-revenue
+SBH,Beauty and Personal Care,2.1526860803721624,9,6,True,OCF-to-revenue
+SFIX,"Apparel, Footwear, and Off-Price Retail",1.20584071231587,4,4,True,OCF-to-revenue
+SHOE,"Apparel, Footwear, and Off-Price Retail",1.3982077045205148,6,6,True,OCF-to-revenue
+SPWH,"Sporting Goods, Electronics, and Other Merchandise",2.45360047742411,7,4,True,OCF-to-revenue
+TJX,"Apparel, Footwear, and Off-Price Retail",-0.71886266315153,8,8,True,OCF-to-revenue
+TLYS,"Apparel, Footwear, and Off-Price Retail",1.4073888864683552,8,5,True,OCF-to-revenue
+ULTA,Beauty and Personal Care,0.5745891368167186,7,7,True,OCF-to-revenue
+URBN,"Apparel, Footwear, and Off-Price Retail",0.7700842347137122,8,7,True,OCF-to-revenue
+WSM,"Home Furnishings, Furniture, and Home Improvement",1.0072764005660577,9,6,True,OCF-to-revenue
+ZUMZ,"Apparel, Footwear, and Off-Price Retail",2.7439373277515964,8,6,True,OCF-to-revenue

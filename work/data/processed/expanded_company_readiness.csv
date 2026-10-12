@@ -1,0 +1,43 @@
+ticker,subgroup,cik10,sec_company_name,accounting_review_status,include_decision,business_scope_notes,cost_and_gross_profit_notes,annual_rows,gm_usable_years,ocf_usable_years,known_scope_breaks,bridge_review_rows,derived_fields,gm_working_candidate,ocf_working_candidate
+TJX,"Apparel, Footwear, and Off-Price Retail",0000109198,TJX COMPANIES INC /DE/,pending,pending,,,19,0,18,0,0,0,False,True
+ROST,"Apparel, Footwear, and Off-Price Retail",0000745732,"ROSS STORES, INC.",pending,pending,,,18,0,17,0,0,0,False,True
+BURL,"Apparel, Footwear, and Off-Price Retail",0001579298,"Burlington Stores, Inc.",pending,pending,,,15,0,14,0,0,0,False,True
+LULU,"Apparel, Footwear, and Off-Price Retail",0001397187,lululemon athletica inc.,pending,pending,,,18,13,13,0,0,0,True,True
+GAP,"Apparel, Footwear, and Off-Price Retail",0000039911,GAP INC,pending,pending,,,19,14,14,0,0,0,True,True
+URBN,"Apparel, Footwear, and Off-Price Retail",0000912615,URBAN OUTFITTERS INC,pending,pending,,,18,17,17,0,6,0,True,True
+ANF,"Apparel, Footwear, and Off-Price Retail",0001018840,ABERCROMBIE & FITCH CO /DE/,pending,pending,,,18,17,17,0,0,2,True,True
+BOOT,"Apparel, Footwear, and Off-Price Retail",0001610250,"Boot Barn Holdings, Inc.",pending,pending,,,14,13,13,0,0,0,True,True
+AEO,"Apparel, Footwear, and Off-Price Retail",0000919012,AMERICAN EAGLE OUTFITTERS INC,pending,pending,,,18,17,17,1,0,7,True,True
+BKE,"Apparel, Footwear, and Off-Price Retail",0000885245,BUCKLE INC,pending,pending,,,18,17,17,0,0,0,True,True
+CTRN,"Apparel, Footwear, and Off-Price Retail",0001318484,Citi Trends Inc,pending,pending,,,17,3,16,0,0,0,False,True
+JILL,"Apparel, Footwear, and Off-Price Retail",0001687932,"J.Jill, Inc.",pending,pending,,,11,10,10,0,0,0,True,True
+SFIX,"Apparel, Footwear, and Off-Price Retail",0001576942,"Stitch Fix, Inc.",pending,pending,,,11,10,10,0,0,0,True,True
+SHOE,"Apparel, Footwear, and Off-Price Retail",0000895447,SHOE STATION GROUP INC,pending,pending,,,17,16,15,0,0,0,True,True
+LE,"Apparel, Footwear, and Off-Price Retail",0000799288,"LANDS' END, INC.",pending,pending,,,14,11,13,0,0,0,True,True
+CURV,"Apparel, Footwear, and Off-Price Retail",0001792781,Torrid Holdings Inc.,pending,pending,,,7,6,6,0,0,0,True,True
+ZUMZ,"Apparel, Footwear, and Off-Price Retail",0001318008,Zumiez Inc,pending,pending,,,17,16,16,0,0,0,True,True
+DLTH,"Apparel, Footwear, and Off-Price Retail",0001649744,DULUTH HOLDINGS INC.,pending,pending,,,13,12,12,0,0,0,True,True
+TLYS,"Apparel, Footwear, and Off-Price Retail",0001524025,"TILLY'S, INC.",pending,pending,,,16,15,15,0,0,0,True,True
+AKA,"Apparel, Footwear, and Off-Price Retail",0001865107,A.K.A. BRANDS HOLDING CORP.,pending,pending,,,7,6,6,0,0,0,True,True
+CATO,"Apparel, Footwear, and Off-Price Retail",0000018255,CATO CORP,pending,pending,,,17,0,16,0,0,0,False,True
+LVLU,"Apparel, Footwear, and Off-Price Retail",0001780201,"Lulu's Fashion Lounge Holdings, Inc.",pending,pending,,,7,6,6,0,0,0,True,True
+DXLG,"Apparel, Footwear, and Off-Price Retail",0000813298,"DESTINATION XL GROUP, INC.",pending,pending,,,17,16,16,0,0,0,True,True
+M,Department Stores,0000794367,"Macy's, Inc.",pending,pending,,,19,1,9,0,0,0,False,True
+KSS,Department Stores,0000885639,KOHLS Corp,pending,pending,,,19,10,18,0,0,0,True,True
+DDS,Department Stores,0000028917,"DILLARD'S, INC.",pending,pending,,,18,15,17,0,4,0,True,True
+HD,"Home Furnishings, Furniture, and Home Improvement",0000354950,"HOME DEPOT, INC.",pending,pending,,,19,14,14,0,0,0,True,True
+LOW,"Home Furnishings, Furniture, and Home Improvement",0000060667,LOWES COMPANIES INC,pending,pending,,,19,18,18,0,0,0,True,True
+FND,"Home Furnishings, Furniture, and Home Improvement",0001507079,"Floor & Decor Holdings, Inc.",pending,pending,,,11,10,10,0,0,0,True,True
+HVT,"Home Furnishings, Furniture, and Home Improvement",0000216085,HAVERTY FURNITURE COMPANIES INC,pending,pending,,,17,16,16,0,0,0,True,True
+WSM,"Home Furnishings, Furniture, and Home Improvement",0000719955,WILLIAMS SONOMA INC,pending,pending,,,18,17,17,0,0,0,True,True
+RH,"Home Furnishings, Furniture, and Home Improvement",0001528849,RH,pending,pending,,,16,15,15,0,0,0,True,True
+ARHS,"Home Furnishings, Furniture, and Home Improvement",0001875444,"Arhaus, Inc.",pending,pending,,,7,6,6,0,0,0,True,True
+DKS,"Sporting Goods, Electronics, and Other Merchandise",0001089063,"DICK'S SPORTING GOODS, INC.",pending,pending,,,18,17,17,1,0,0,True,True
+ASO,"Sporting Goods, Electronics, and Other Merchandise",0001817358,"Academy Sports & Outdoors, Inc.",pending,pending,,,8,7,7,0,0,0,True,True
+SPWH,"Sporting Goods, Electronics, and Other Merchandise",0001132105,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",pending,pending,,,14,13,13,0,0,0,True,True
+BBY,"Sporting Goods, Electronics, and Other Merchandise",0000764478,BEST BUY CO INC,pending,pending,,,18,17,17,0,3,0,True,True
+GME,"Sporting Goods, Electronics, and Other Merchandise",0001326380,GameStop Corp.,pending,pending,,,19,18,18,0,0,0,True,True
+FIVE,"Sporting Goods, Electronics, and Other Merchandise",0001177609,"FIVE BELOW, INC",pending,pending,,,16,12,15,0,0,0,True,True
+ULTA,Beauty and Personal Care,0001403568,"Ulta Beauty, Inc.",pending,pending,,,17,16,16,0,0,0,True,True
+SBH,Beauty and Personal Care,0001368458,"Sally Beauty Holdings, Inc.",pending,pending,,,18,17,17,0,0,0,True,True
+BBWI,Beauty and Personal Care,0000701985,"Bath & Body Works, Inc.",pending,pending,,,19,18,18,1,0,0,True,True

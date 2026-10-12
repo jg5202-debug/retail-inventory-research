@@ -1,0 +1,13 @@
+sample,ticker,outcome,paired_rows,pearson_r
+All pairs,AEO,next_gross_margin_change_pp,13,0.17672220554358548
+All pairs,AEO,next_ocf_margin_change_pp,13,0.3587022938474239
+All pairs,ANF,next_gross_margin_change_pp,15,-0.17427425994740228
+All pairs,ANF,next_ocf_margin_change_pp,15,0.326050403046183
+All pairs,URBN,next_gross_margin_change_pp,15,-0.19957753571901038
+All pairs,URBN,next_ocf_margin_change_pp,15,-0.10851692629224588
+Unchanged period lengths,AEO,next_gross_margin_change_pp,6,0.3996626897911044
+Unchanged period lengths,AEO,next_ocf_margin_change_pp,6,0.8577605490976805
+Unchanged period lengths,ANF,next_gross_margin_change_pp,6,-0.6019021009553274
+Unchanged period lengths,ANF,next_ocf_margin_change_pp,6,-0.8423061323834349
+Unchanged period lengths,URBN,next_gross_margin_change_pp,15,-0.19957753571901038
+Unchanged period lengths,URBN,next_ocf_margin_change_pp,15,-0.10851692629224588

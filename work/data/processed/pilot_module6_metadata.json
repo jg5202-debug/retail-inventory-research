@@ -1,0 +1,102 @@
+{
+  "processed_at_utc": "2026-10-08T03:16:57.690565+00:00",
+  "module5_metadata": {
+    "processed_at_utc": "2026-10-07T20:03:14.783701+00:00",
+    "module4_metadata": {
+      "processed_at_utc": "2026-10-06T23:05:49.776663+00:00",
+      "module3_metadata": {
+        "processed_at_utc": "2026-10-05T23:03:21.582124+00:00",
+        "snapshot_times": {
+          "URBN": "2026-10-05T03:51:12.952266+00:00",
+          "ANF": "2026-10-05T03:51:14.951742+00:00",
+          "AEO": "2026-10-05T03:51:16.742098+00:00"
+        },
+        "unit": "USD",
+        "annual_period_days": [
+          350,
+          380
+        ],
+        "filing_rule": "Earliest available full-year revenue 10-K/10-K/A per period end; other metrics use the same accession.",
+        "tag_candidates_in_priority_order": {
+          "revenue": [
+            "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "SalesRevenueNet",
+            "Revenues",
+            "SalesRevenueGoodsNet"
+          ],
+          "cost_of_sales": [
+            "CostOfRevenue",
+            "CostOfGoodsAndServicesSold",
+            "CostOfGoodsSold",
+            "CostOfGoodsSoldExcludingDepreciationDepletionAndAmortization",
+            "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization"
+          ],
+          "gross_profit": [
+            "GrossProfit"
+          ],
+          "inventory": [
+            "InventoryNet"
+          ],
+          "total_assets": [
+            "Assets"
+          ],
+          "operating_cash_flow": [
+            "NetCashProvidedByUsedInOperatingActivities",
+            "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations"
+          ]
+        },
+        "derivation_rules": {
+          "AEO": {
+            "metric": "cost_of_sales",
+            "period_end_from": "2009-01-31",
+            "period_end_to": "2015-01-31",
+            "formula": "revenue - gross_profit",
+            "condition": "Apply only when cost of sales is missing."
+          },
+          "ANF": {
+            "metric": "gross_profit",
+            "period_ends": [
+              "2025-02-01",
+              "2026-01-31"
+            ],
+            "formula": "revenue - cost_of_sales",
+            "condition": "Apply only when gross profit is missing.",
+            "cost_scope": "Excludes depreciation and amortization."
+          }
+        },
+        "derived_value_status": "derived_pending_review",
+        "missing_value_policy": "Retain unresolved missing values without imputation.",
+        "accounting_scope_verified": false
+      },
+      "unit": "USD; ratios and changes stored as decimals",
+      "complete_annual_rows": 51,
+      "eligible_growth_rows": 47,
+      "known_scope_break": "Exclude AEO growth comparison ending 2013-02-02 due to discontinued-operation reclassification.",
+      "growth_rule": "Consecutive complete annual rows, 350-380 day end-date gap, positive prior revenue and inventory, excluding known scope breaks.",
+      "period_length_policy": "Flag material length changes; do not normalize revenue automatically.",
+      "accounting_scope_verified": false,
+      "prediction_sample_ready": false
+    },
+    "research_design": "Retrospective association of annual inventory features with next fiscal-year outcomes.",
+    "unit": "Ratios and changes stored as decimals; dates have daily precision.",
+    "current_feature_rows": 47,
+    "usable_pair_rows": 43,
+    "signal_date_rule": "Selected annual filing date used as a proxy; not certified first public disclosure.",
+    "pair_rule": "Consecutive complete target year, no known target scope break, current filing before target year end.",
+    "target_overlap": "The target fiscal year may already have started when the current annual report is filed.",
+    "gross_margin_target": "Next gross margin minus current gross margin.",
+    "cash_flow_target": "Next OCF-to-revenue ratio minus current OCF-to-revenue ratio.",
+    "accounting_scope_verified": false,
+    "point_in_time_verified": false,
+    "full_year_forecast_ready": false
+  },
+  "paired_rows": 43,
+  "company_count": 3,
+  "group_rule": "Within each company: inventory-sales growth gap > 0 versus <= 0.",
+  "sensitivity_rule": "All pairs versus pairs without flagged annual-period length changes.",
+  "case_rule": "Highest current inventory-sales growth gap per company; filing review pending.",
+  "display_units": "Changes in percentage points; decline rates stored as fractions.",
+  "statistical_inference_performed": false,
+  "accounting_scope_verified": false,
+  "full_year_forecast_ready": false
+}

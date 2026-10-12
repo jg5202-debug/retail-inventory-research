@@ -1,0 +1,14 @@
+ticker,period_end,accn,reported_net_sales,extra_gross_profit_charge,evidence_url,evidence_note
+BBY,2011-02-26,0001047469-11-004045,,24000000,https://www.sec.gov/Archives/edgar/data/764478/000104746911004045/a2203505z10-k.htm,Restructuring charges in cost of goods sold
+BBY,2012-03-03,0000764478-12-000035,,19000000,https://www.sec.gov/Archives/edgar/data/764478/000076447812000035/bby-201210k.htm,Restructuring charges in cost of goods sold
+BBY,2016-01-30,0000764478-16-000064,,3000000,https://www.sec.gov/Archives/edgar/data/764478/000076447816000064/bby-2016x10k.htm,Restructuring charges in cost of goods sold
+DDS,2020-02-01,0000028917-20-000041,6203520000.0,0,https://www.sec.gov/Archives/edgar/data/28917/000002891720000041/dds-02012020x10k.htm,Net sales exclude service charges and other income
+DDS,2021-01-30,0000028917-21-000066,4300895000.0,0,https://www.sec.gov/Archives/edgar/data/28917/000002891721000066/dds-20210130.htm,Net sales exclude service charges and other income
+DDS,2022-01-29,0000028917-22-000009,6492993000.0,0,https://www.sec.gov/Archives/edgar/data/28917/000002891722000009/dds-20220129.htm,Net sales exclude service charges and other income
+DDS,2023-01-28,0000028917-23-000007,6871081000.0,0,https://www.sec.gov/Archives/edgar/data/28917/000002891723000007/R4.htm,Net sales exclude service charges and other income
+URBN,2020-01-31,0001564590-20-014397,,14611000,https://www.sec.gov/Archives/edgar/data/912615/000156459021017306/urbn-10k_20210131.htm,Store impairment; comparative column in 2021 filing
+URBN,2021-01-31,0001564590-21-017306,,15496000,https://www.sec.gov/Archives/edgar/data/912615/000156459021017306/urbn-10k_20210131.htm,Store impairment
+URBN,2023-01-31,0000950170-23-011597,,6417000,https://www.sec.gov/Archives/edgar/data/912615/000095017025048506/urbn-20250131.htm,Store charges; comparative column in 2025 filing
+URBN,2024-01-31,0000950170-24-039320,,11875000,https://www.sec.gov/Archives/edgar/data/912615/000095017025048506/urbn-20250131.htm,Store charges; comparative column in 2025 filing
+URBN,2025-01-31,0000950170-25-048506,,4601000,https://www.sec.gov/Archives/edgar/data/912615/000095017025048506/urbn-20250131.htm,Store impairment and lease abandonment charges
+URBN,2026-01-31,0001193125-26-137916,,1989000,https://www.sec.gov/Archives/edgar/data/912615/000119312526138040/urbn_fy26_10-k_-_ars.pdf,Store charges; matching annual report in a separate ARS filing

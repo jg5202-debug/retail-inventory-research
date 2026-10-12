@@ -1,0 +1,43 @@
+ticker,subgroup,cik,sec_company_name,exchange,cik10,identity_status,eligibility_status,identity_snapshot_at_utc
+TJX,"Apparel, Footwear, and Off-Price Retail",109198,TJX COMPANIES INC /DE/,NYSE,0000109198,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+ROST,"Apparel, Footwear, and Off-Price Retail",745732,"ROSS STORES, INC.",Nasdaq,0000745732,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+BURL,"Apparel, Footwear, and Off-Price Retail",1579298,"Burlington Stores, Inc.",NYSE,0001579298,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+LULU,"Apparel, Footwear, and Off-Price Retail",1397187,lululemon athletica inc.,Nasdaq,0001397187,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+GAP,"Apparel, Footwear, and Off-Price Retail",39911,GAP INC,NYSE,0000039911,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+URBN,"Apparel, Footwear, and Off-Price Retail",912615,URBAN OUTFITTERS INC,Nasdaq,0000912615,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+ANF,"Apparel, Footwear, and Off-Price Retail",1018840,ABERCROMBIE & FITCH CO /DE/,NYSE,0001018840,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+BOOT,"Apparel, Footwear, and Off-Price Retail",1610250,"Boot Barn Holdings, Inc.",NYSE,0001610250,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+AEO,"Apparel, Footwear, and Off-Price Retail",919012,AMERICAN EAGLE OUTFITTERS INC,NYSE,0000919012,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+BKE,"Apparel, Footwear, and Off-Price Retail",885245,BUCKLE INC,NYSE,0000885245,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+CTRN,"Apparel, Footwear, and Off-Price Retail",1318484,Citi Trends Inc,Nasdaq,0001318484,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+JILL,"Apparel, Footwear, and Off-Price Retail",1687932,"J.Jill, Inc.",NYSE,0001687932,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+SFIX,"Apparel, Footwear, and Off-Price Retail",1576942,"Stitch Fix, Inc.",Nasdaq,0001576942,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+SHOE,"Apparel, Footwear, and Off-Price Retail",895447,SHOE STATION GROUP INC,Nasdaq,0000895447,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+LE,"Apparel, Footwear, and Off-Price Retail",799288,"LANDS' END, INC.",Nasdaq,0000799288,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+CURV,"Apparel, Footwear, and Off-Price Retail",1792781,Torrid Holdings Inc.,NYSE,0001792781,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+ZUMZ,"Apparel, Footwear, and Off-Price Retail",1318008,Zumiez Inc,Nasdaq,0001318008,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+DLTH,"Apparel, Footwear, and Off-Price Retail",1649744,DULUTH HOLDINGS INC.,Nasdaq,0001649744,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+TLYS,"Apparel, Footwear, and Off-Price Retail",1524025,"TILLY'S, INC.",NYSE,0001524025,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+AKA,"Apparel, Footwear, and Off-Price Retail",1865107,A.K.A. BRANDS HOLDING CORP.,NYSE,0001865107,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+CATO,"Apparel, Footwear, and Off-Price Retail",18255,CATO CORP,NYSE,0000018255,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+LVLU,"Apparel, Footwear, and Off-Price Retail",1780201,"Lulu's Fashion Lounge Holdings, Inc.",Nasdaq,0001780201,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+DXLG,"Apparel, Footwear, and Off-Price Retail",813298,"DESTINATION XL GROUP, INC.",Nasdaq,0000813298,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+M,Department Stores,794367,"Macy's, Inc.",NYSE,0000794367,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+KSS,Department Stores,885639,KOHLS Corp,NYSE,0000885639,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+DDS,Department Stores,28917,"DILLARD'S, INC.",NYSE,0000028917,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+HD,"Home Furnishings, Furniture, and Home Improvement",354950,"HOME DEPOT, INC.",NYSE,0000354950,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+LOW,"Home Furnishings, Furniture, and Home Improvement",60667,LOWES COMPANIES INC,NYSE,0000060667,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+FND,"Home Furnishings, Furniture, and Home Improvement",1507079,"Floor & Decor Holdings, Inc.",NYSE,0001507079,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+HVT,"Home Furnishings, Furniture, and Home Improvement",216085,HAVERTY FURNITURE COMPANIES INC,NYSE,0000216085,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+WSM,"Home Furnishings, Furniture, and Home Improvement",719955,WILLIAMS SONOMA INC,NYSE,0000719955,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+RH,"Home Furnishings, Furniture, and Home Improvement",1528849,RH,NYSE,0001528849,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+ARHS,"Home Furnishings, Furniture, and Home Improvement",1875444,"Arhaus, Inc.",Nasdaq,0001875444,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+DKS,"Sporting Goods, Electronics, and Other Merchandise",1089063,"DICK'S SPORTING GOODS, INC.",NYSE,0001089063,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+ASO,"Sporting Goods, Electronics, and Other Merchandise",1817358,"Academy Sports & Outdoors, Inc.",Nasdaq,0001817358,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+SPWH,"Sporting Goods, Electronics, and Other Merchandise",1132105,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",Nasdaq,0001132105,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+BBY,"Sporting Goods, Electronics, and Other Merchandise",764478,BEST BUY CO INC,NYSE,0000764478,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+GME,"Sporting Goods, Electronics, and Other Merchandise",1326380,GameStop Corp.,NYSE,0001326380,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+FIVE,"Sporting Goods, Electronics, and Other Merchandise",1177609,"FIVE BELOW, INC",Nasdaq,0001177609,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+ULTA,Beauty and Personal Care,1403568,"Ulta Beauty, Inc.",Nasdaq,0001403568,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+SBH,Beauty and Personal Care,1368458,"Sally Beauty Holdings, Inc.",NYSE,0001368458,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00
+BBWI,Beauty and Personal Care,701985,"Bath & Body Works, Inc.",NYSE,0000701985,matched,pending_business_and_data_audit,2026-10-05T03:38:05.930604+00:00

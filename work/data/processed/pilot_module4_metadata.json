@@ -1,0 +1,75 @@
+{
+  "processed_at_utc": "2026-10-06T23:05:49.776663+00:00",
+  "module3_metadata": {
+    "processed_at_utc": "2026-10-05T23:03:21.582124+00:00",
+    "snapshot_times": {
+      "URBN": "2026-10-05T03:51:12.952266+00:00",
+      "ANF": "2026-10-05T03:51:14.951742+00:00",
+      "AEO": "2026-10-05T03:51:16.742098+00:00"
+    },
+    "unit": "USD",
+    "annual_period_days": [
+      350,
+      380
+    ],
+    "filing_rule": "Earliest available full-year revenue 10-K/10-K/A per period end; other metrics use the same accession.",
+    "tag_candidates_in_priority_order": {
+      "revenue": [
+        "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "SalesRevenueNet",
+        "Revenues",
+        "SalesRevenueGoodsNet"
+      ],
+      "cost_of_sales": [
+        "CostOfRevenue",
+        "CostOfGoodsAndServicesSold",
+        "CostOfGoodsSold",
+        "CostOfGoodsSoldExcludingDepreciationDepletionAndAmortization",
+        "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization"
+      ],
+      "gross_profit": [
+        "GrossProfit"
+      ],
+      "inventory": [
+        "InventoryNet"
+      ],
+      "total_assets": [
+        "Assets"
+      ],
+      "operating_cash_flow": [
+        "NetCashProvidedByUsedInOperatingActivities",
+        "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations"
+      ]
+    },
+    "derivation_rules": {
+      "AEO": {
+        "metric": "cost_of_sales",
+        "period_end_from": "2009-01-31",
+        "period_end_to": "2015-01-31",
+        "formula": "revenue - gross_profit",
+        "condition": "Apply only when cost of sales is missing."
+      },
+      "ANF": {
+        "metric": "gross_profit",
+        "period_ends": [
+          "2025-02-01",
+          "2026-01-31"
+        ],
+        "formula": "revenue - cost_of_sales",
+        "condition": "Apply only when gross profit is missing.",
+        "cost_scope": "Excludes depreciation and amortization."
+      }
+    },
+    "derived_value_status": "derived_pending_review",
+    "missing_value_policy": "Retain unresolved missing values without imputation.",
+    "accounting_scope_verified": false
+  },
+  "unit": "USD; ratios and changes stored as decimals",
+  "complete_annual_rows": 51,
+  "eligible_growth_rows": 47,
+  "known_scope_break": "Exclude AEO growth comparison ending 2013-02-02 due to discontinued-operation reclassification.",
+  "growth_rule": "Consecutive complete annual rows, 350-380 day end-date gap, positive prior revenue and inventory, excluding known scope breaks.",
+  "period_length_policy": "Flag material length changes; do not normalize revenue automatically.",
+  "accounting_scope_verified": false,
+  "prediction_sample_ready": false
+}

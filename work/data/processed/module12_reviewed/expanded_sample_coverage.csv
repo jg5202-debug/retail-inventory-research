@@ -1,0 +1,79 @@
+ticker,subgroup,pairs,first_period_end,last_period_end,outcome
+AEO,"Apparel, Footwear, and Off-Price Retail",12,2011-01-29,2025-02-01,Gross margin
+AKA,"Apparel, Footwear, and Off-Price Retail",4,2021-12-31,2024-12-31,Gross margin
+ANF,"Apparel, Footwear, and Off-Price Retail",15,2011-01-29,2025-02-01,Gross margin
+ARHS,"Home Furnishings, Furniture, and Home Improvement",4,2021-12-31,2024-12-31,Gross margin
+ASO,"Sporting Goods, Electronics, and Other Merchandise",5,2021-01-30,2025-02-01,Gross margin
+BBWI,Beauty and Personal Care,13,2010-01-30,2025-02-01,Gross margin
+BBY,"Sporting Goods, Electronics, and Other Merchandise",8,2018-02-03,2025-02-01,Gross margin
+BKE,"Apparel, Footwear, and Off-Price Retail",15,2011-01-29,2025-02-01,Gross margin
+BOOT,"Apparel, Footwear, and Off-Price Retail",11,2015-03-28,2025-03-29,Gross margin
+CURV,"Apparel, Footwear, and Off-Price Retail",4,2022-01-29,2025-02-01,Gross margin
+DDS,Department Stores,14,2012-01-28,2025-02-01,Gross margin
+DKS,"Sporting Goods, Electronics, and Other Merchandise",14,2011-01-29,2024-02-03,Gross margin
+DLTH,"Apparel, Footwear, and Off-Price Retail",10,2016-01-31,2025-02-02,Gross margin
+DXLG,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,Gross margin
+FIVE,"Sporting Goods, Electronics, and Other Merchandise",10,2013-02-02,2022-01-29,Gross margin
+FND,"Home Furnishings, Furniture, and Home Improvement",8,2017-12-28,2024-12-26,Gross margin
+GAP,"Apparel, Footwear, and Off-Price Retail",12,2014-02-01,2025-02-01,Gross margin
+GME,"Sporting Goods, Electronics, and Other Merchandise",16,2010-01-30,2025-02-01,Gross margin
+HD,"Home Furnishings, Furniture, and Home Improvement",12,2014-02-02,2025-02-02,Gross margin
+HVT,"Home Furnishings, Furniture, and Home Improvement",14,2011-12-31,2024-12-31,Gross margin
+JILL,"Apparel, Footwear, and Off-Price Retail",6,2020-02-01,2025-02-01,Gross margin
+KSS,Department Stores,8,2010-01-30,2017-01-28,Gross margin
+LE,"Apparel, Footwear, and Off-Price Retail",10,2016-01-29,2025-01-31,Gross margin
+LOW,"Home Furnishings, Furniture, and Home Improvement",16,2010-01-29,2025-01-31,Gross margin
+LULU,"Apparel, Footwear, and Off-Price Retail",10,2015-02-01,2025-02-02,Gross margin
+LVLU,"Apparel, Footwear, and Off-Price Retail",4,2022-01-02,2024-12-29,Gross margin
+RH,"Home Furnishings, Furniture, and Home Improvement",13,2013-02-02,2025-02-01,Gross margin
+SBH,Beauty and Personal Care,15,2010-09-30,2024-09-30,Gross margin
+SFIX,"Apparel, Footwear, and Off-Price Retail",8,2018-07-28,2025-08-02,Gross margin
+SHOE,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,Gross margin
+SPWH,"Sporting Goods, Electronics, and Other Merchandise",11,2015-01-31,2025-02-01,Gross margin
+TLYS,"Apparel, Footwear, and Off-Price Retail",13,2013-02-02,2025-02-01,Gross margin
+ULTA,Beauty and Personal Care,14,2012-01-28,2025-02-01,Gross margin
+URBN,"Apparel, Footwear, and Off-Price Retail",15,2011-01-31,2025-01-31,Gross margin
+WSM,"Home Furnishings, Furniture, and Home Improvement",15,2011-01-30,2025-02-02,Gross margin
+ZUMZ,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,Gross margin
+AEO,"Apparel, Footwear, and Off-Price Retail",12,2011-01-29,2025-02-01,OCF-to-revenue
+AKA,"Apparel, Footwear, and Off-Price Retail",4,2021-12-31,2024-12-31,OCF-to-revenue
+ANF,"Apparel, Footwear, and Off-Price Retail",15,2011-01-29,2025-02-01,OCF-to-revenue
+ARHS,"Home Furnishings, Furniture, and Home Improvement",4,2021-12-31,2024-12-31,OCF-to-revenue
+ASO,"Sporting Goods, Electronics, and Other Merchandise",5,2021-01-30,2025-02-01,OCF-to-revenue
+BBWI,Beauty and Personal Care,13,2010-01-30,2025-02-01,OCF-to-revenue
+BBY,"Sporting Goods, Electronics, and Other Merchandise",8,2018-02-03,2025-02-01,OCF-to-revenue
+BKE,"Apparel, Footwear, and Off-Price Retail",15,2011-01-29,2025-02-01,OCF-to-revenue
+BOOT,"Apparel, Footwear, and Off-Price Retail",11,2015-03-28,2025-03-29,OCF-to-revenue
+BURL,"Apparel, Footwear, and Off-Price Retail",12,2014-02-01,2025-02-01,OCF-to-revenue
+CATO,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,OCF-to-revenue
+CTRN,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,OCF-to-revenue
+CURV,"Apparel, Footwear, and Off-Price Retail",4,2022-01-29,2025-02-01,OCF-to-revenue
+DDS,Department Stores,15,2011-01-29,2025-02-01,OCF-to-revenue
+DKS,"Sporting Goods, Electronics, and Other Merchandise",14,2011-01-29,2024-02-03,OCF-to-revenue
+DLTH,"Apparel, Footwear, and Off-Price Retail",10,2016-01-31,2025-02-02,OCF-to-revenue
+DXLG,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,OCF-to-revenue
+FIVE,"Sporting Goods, Electronics, and Other Merchandise",13,2013-02-02,2025-02-01,OCF-to-revenue
+FND,"Home Furnishings, Furniture, and Home Improvement",8,2017-12-28,2024-12-26,OCF-to-revenue
+GAP,"Apparel, Footwear, and Off-Price Retail",12,2014-02-01,2025-02-01,OCF-to-revenue
+GME,"Sporting Goods, Electronics, and Other Merchandise",16,2010-01-30,2025-02-01,OCF-to-revenue
+HD,"Home Furnishings, Furniture, and Home Improvement",12,2014-02-02,2025-02-02,OCF-to-revenue
+HVT,"Home Furnishings, Furniture, and Home Improvement",14,2011-12-31,2024-12-31,OCF-to-revenue
+JILL,"Apparel, Footwear, and Off-Price Retail",6,2020-02-01,2025-02-01,OCF-to-revenue
+KSS,Department Stores,16,2010-01-30,2025-02-01,OCF-to-revenue
+LE,"Apparel, Footwear, and Off-Price Retail",11,2015-01-30,2025-01-31,OCF-to-revenue
+LOW,"Home Furnishings, Furniture, and Home Improvement",16,2010-01-29,2025-01-31,OCF-to-revenue
+LULU,"Apparel, Footwear, and Off-Price Retail",10,2015-02-01,2025-02-02,OCF-to-revenue
+LVLU,"Apparel, Footwear, and Off-Price Retail",4,2022-01-02,2024-12-29,OCF-to-revenue
+M,Department Stores,7,2019-02-02,2025-02-01,OCF-to-revenue
+RH,"Home Furnishings, Furniture, and Home Improvement",13,2013-02-02,2025-02-01,OCF-to-revenue
+ROST,"Apparel, Footwear, and Off-Price Retail",15,2011-01-29,2025-02-01,OCF-to-revenue
+SBH,Beauty and Personal Care,15,2010-09-30,2024-09-30,OCF-to-revenue
+SFIX,"Apparel, Footwear, and Off-Price Retail",8,2018-07-28,2025-08-02,OCF-to-revenue
+SHOE,"Apparel, Footwear, and Off-Price Retail",12,2012-01-28,2025-02-01,OCF-to-revenue
+SPWH,"Sporting Goods, Electronics, and Other Merchandise",11,2015-01-31,2025-02-01,OCF-to-revenue
+TJX,"Apparel, Footwear, and Off-Price Retail",16,2010-01-30,2025-02-01,OCF-to-revenue
+TLYS,"Apparel, Footwear, and Off-Price Retail",13,2013-02-02,2025-02-01,OCF-to-revenue
+ULTA,Beauty and Personal Care,14,2012-01-28,2025-02-01,OCF-to-revenue
+URBN,"Apparel, Footwear, and Off-Price Retail",15,2011-01-31,2025-01-31,OCF-to-revenue
+WSM,"Home Furnishings, Furniture, and Home Improvement",15,2011-01-30,2025-02-02,OCF-to-revenue
+ZUMZ,"Apparel, Footwear, and Off-Price Retail",14,2012-01-28,2025-02-01,OCF-to-revenue

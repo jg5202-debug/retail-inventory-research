@@ -1,0 +1,21 @@
+subgroup,inventory_group,pairs,companies,mean_change_pp,median_change_pp,decline_rate,outcome
+"Apparel, Footwear, and Off-Price Retail",Gap <= 0,82,18,0.009962373826272701,0.10337822637902,0.47560975609756095,Gross margin
+"Apparel, Footwear, and Off-Price Retail",Gap > 0,109,18,0.052427092161902014,-0.29880792437992,0.5963302752293578,Gross margin
+Beauty and Personal Care,Gap <= 0,20,3,0.10941468027772198,0.30367273620924,0.4,Gross margin
+Beauty and Personal Care,Gap > 0,22,3,0.4607808614619543,0.04258560676397154,0.5,Gross margin
+Department Stores,Gap <= 0,10,2,-0.572539086266189,-0.25314213769521504,0.7,Gross margin
+Department Stores,Gap > 0,12,2,0.679333666832035,-0.265210295264045,0.75,Gross margin
+"Home Furnishings, Furniture, and Home Improvement",Gap <= 0,32,7,0.7302662890650834,0.17949247044817002,0.34375,Gross margin
+"Home Furnishings, Furniture, and Home Improvement",Gap > 0,50,7,-0.059308431656011004,-0.087532397457445,0.6,Gross margin
+"Sporting Goods, Electronics, and Other Merchandise",Gap <= 0,26,6,0.2766843424855442,-0.056387204679095,0.5769230769230769,Gross margin
+"Sporting Goods, Electronics, and Other Merchandise",Gap > 0,38,6,0.172796850224279,0.09560529905531999,0.4473684210526316,Gross margin
+"Apparel, Footwear, and Off-Price Retail",Gap <= 0,122,23,-1.2552337383459216,-0.8035898143328599,0.680327868852459,OCF-to-revenue
+"Apparel, Footwear, and Off-Price Retail",Gap > 0,139,23,0.7414335598316453,0.64269282409574,0.4244604316546763,OCF-to-revenue
+Beauty and Personal Care,Gap <= 0,20,3,-0.844455903454913,-0.7025837132269199,0.75,OCF-to-revenue
+Beauty and Personal Care,Gap > 0,22,3,1.0198940691806537,0.223224928182635,0.4090909090909091,OCF-to-revenue
+Department Stores,Gap <= 0,18,3,-1.784685193982067,-1.51320799360558,0.8333333333333334,OCF-to-revenue
+Department Stores,Gap > 0,20,3,1.5162785052375933,0.788928296727225,0.25,OCF-to-revenue
+"Home Furnishings, Furniture, and Home Improvement",Gap <= 0,32,7,-1.1468786363611976,-0.895298071582985,0.6875,OCF-to-revenue
+"Home Furnishings, Furniture, and Home Improvement",Gap > 0,50,7,1.1127541809497747,0.325029283588925,0.46,OCF-to-revenue
+"Sporting Goods, Electronics, and Other Merchandise",Gap <= 0,27,6,-1.5041807365664541,-1.00963233852826,0.7037037037037037,OCF-to-revenue
+"Sporting Goods, Electronics, and Other Merchandise",Gap > 0,40,6,1.1446089216661972,0.28134336117391,0.425,OCF-to-revenue

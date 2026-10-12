@@ -1,0 +1,11 @@
+subgroup,mean_difference_pp,positive_gap_pairs,nonpositive_gap_pairs,outcome
+"Apparel, Footwear, and Off-Price Retail",0.042464718335629315,109,82,Gross margin
+Beauty and Personal Care,0.3513661811842323,22,20,Gross margin
+Department Stores,1.2518727530982239,12,10,Gross margin
+"Home Furnishings, Furniture, and Home Improvement",-0.7895747207210944,50,32,Gross margin
+"Sporting Goods, Electronics, and Other Merchandise",-0.10388749226126517,38,26,Gross margin
+"Apparel, Footwear, and Off-Price Retail",1.9966672981775668,139,122,OCF-to-revenue
+Beauty and Personal Care,1.8643499726355666,22,20,OCF-to-revenue
+Department Stores,3.3009636992196603,20,18,OCF-to-revenue
+"Home Furnishings, Furniture, and Home Improvement",2.2596328173109725,50,32,OCF-to-revenue
+"Sporting Goods, Electronics, and Other Merchandise",2.6487896582326513,40,27,OCF-to-revenue
